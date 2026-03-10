@@ -5,18 +5,18 @@
 }
 
 html {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.6;
+    line-height: 2;
     color: #161414;
-    background-color: #7b8b76;
+    background-color: #9fca92;
 }
 
 header {
-    background-color: #67745a;
+    background-color: #b2d490;
     padding: 2rem;
     color: #161414;
     margin-top: 2rem;
@@ -24,7 +24,7 @@ header {
 }
 
 footer {
-    background-color: #394449;
+    background-color: #4f6670;
     padding: 2rem;
     margin-top: 2cqi;
     text-align: center;
@@ -33,7 +33,7 @@ footer {
 main {
     max-width: 1200px;
     margin: 0 auto;
-    background-color: #3f5763;
+    background-color: #56859c;
     padding: 2rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: #022344;
+    color: #02203d;
     text-decoration: none;
 }
 
