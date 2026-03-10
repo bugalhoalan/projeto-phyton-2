@@ -18,6 +18,7 @@ body {
 header {
     background-color: #67745a;
     padding: 1rem;
+    color: #161414;
     margin-bottom: 1rem;
 }
 
@@ -40,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: #0066cc;
+    color: #022344;
     text-decoration: none;
 }
 
@@ -53,7 +54,7 @@ button {
     cursor: pointer;
     border: none;
     border-radius: 4px;
-    background-color: #0066cc;
+    background-color: #03305e;
     color: white;
 }
 
