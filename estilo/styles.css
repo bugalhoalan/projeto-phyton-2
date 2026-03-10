@@ -11,18 +11,18 @@ html {
 body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
-    color: #e45151;
-    background-color: #fff;
+    color: #161414;
+    background-color: #ecb3b3;
 }
 
 header {
-    background-color: #f4f4f4;
+    background-color: #f5b8b8;
     padding: 1rem;
     margin-bottom: 1rem;
 }
 
 footer {
-    background-color: #f4f4f4;
+    background-color: #292222;
     padding: 1rem;
     margin-top: 1rem;
     text-align: center;
@@ -31,7 +31,7 @@ footer {
 main {
     max-width: 1200px;
     margin: 0 auto;
-    background-color: #fff;
+    background-color: #f78484;
     padding: 1rem;
 }
 
