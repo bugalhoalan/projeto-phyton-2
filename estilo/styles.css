@@ -19,6 +19,7 @@ header {
     background-color: #67745a;
     padding: 2rem;
     color: #161414;
+    margin-top: 2rem;
     margin-bottom: 1rem;
 }
 
@@ -34,10 +35,13 @@ main {
     margin: 0 auto;
     background-color: #3f5763;
     padding: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin-bottom: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
 }
 
 a {
@@ -56,6 +60,8 @@ button {
     border-radius: 4px;
     background-color: #03305e;
     color: white;
+     margin-top: 2rem;
+    margin-bottom: 1rem
 }
 
 button:hover {
